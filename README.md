@@ -22,7 +22,7 @@ Currently studying Software Engineering, building skills in Java, Pascal, Oracle
   Exploring pointers and memory management fundamentals—foundational programming practice.
 
 - [AplicacionMcDonalds](https://github.com/Ramoniet/AplicacionMcDonalds)  
-  Practical application project simulating McDonald's workflow, integrating multiple programming concepts.
+  Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
 
 - [Fase-3-MP](https://github.com/Alon345/Fase-3-MP)  
   Collaborative software project, focused on teamwork and real-world development methodologies.
@@ -51,7 +51,7 @@ Actualmente estudio Ingeniería de Software y desarrollo habilidades en Java, Pa
   Explorando punteros y fundamentos de gestión de memoria—práctica esencial de programación.
 
 - [AplicacionMcDonalds](https://github.com/Ramoniet/AplicacionMcDonalds)  
-  Proyecto práctico simulando el flujo de trabajo de McDonald's, integrando múltiples conceptos de programación.
+  Proyecto práctico de Programación Orientada a Objetos simulando el flujo de trabajo de un kiosko de pedidos de McDonald's, integrando múltiples conceptos de programación.
 
 - [Fase-3-MP](https://github.com/Alon345/Fase-3-MP)  
   Proyecto colaborativo de software, enfocado en el trabajo en equipo y metodologías de desarrollo reales.
