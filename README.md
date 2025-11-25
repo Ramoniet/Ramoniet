@@ -5,7 +5,7 @@
 Aspiring Software Engineer passionate about technology, aviation, and sports!  
 Currently studying Software Engineering, building skills in Java, Pascal, Oracle SQL, software architecture, data structures, requirements engineering, and web development (HTML, CSS, JavaScript, MongoDB).
 
-🚀 **Enthusiast of aviation, cars, motorbikes, football, and tennis.**
+🚀 **Enthusiast of aviation, cars, motorbikes, football, winter sports and tennis.**
 
 - 📚 Always learning and exploring new technologies.
 - 🛠️ Open to collaboration on interesting projects.
