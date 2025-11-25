@@ -21,7 +21,7 @@ Currently studying Software Engineering, building skills in Java, Pascal, Oracle
 - [ED-2025-Laboratorio01-Punteros](https://github.com/Ramoniet/ED-2025-Laboratorio01-Punteros)  
   Exploring pointers and memory management fundamentals—foundational programming practice.
 
-- [AplicacionMcDonalds](https://github.com/Ramoniet/AplicacionMcDonalds)  
+- [SelfOrderBurgerKiosk-POO](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
   Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
 
 - [Fase-3-MP](https://github.com/Alon345/Fase-3-MP)  
