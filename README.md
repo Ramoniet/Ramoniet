@@ -34,7 +34,7 @@ Currently studying Software Engineering, building skills in Java, Pascal, Oracle
 ¡Futuro Ingeniero de Software apasionado por la tecnología, la aviación y los deportes!  
 Actualmente estudio Ingeniería de Software y desarrollo habilidades en Java, Pascal, Oracle SQL, arquitectura de software, estructuras de datos, ingeniería de requerimientos y desarrollo web (HTML, CSS, JavaScript, MongoDB).
 
-🚀 **Entusiasta de la aviación, autos, motos, fútbol y tenis.**
+🚀 **Entusiasta de la aviación, coches, motos, fútbol y tenis.**
 
 - 📚 Siempre aprendiendo y explorando nuevas tecnologías.
 - 🛠️ Abierto a colaborar en proyectos interesantes.
