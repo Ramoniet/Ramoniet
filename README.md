@@ -15,17 +15,20 @@ Currently studying Software Engineering, building skills in Java, Pascal, Oracle
 
 ## 🛠️ Main Projects
 
-- [ED-2025-Laboratorio02-TAD](https://github.com/Ramoniet/ED-2025-Laboratorio02-TAD)  
-  Data structures and algorithms in Java. Hands-on lab work applying core computer science concepts.
-
-- [ED-2025-Laboratorio01-Punteros](https://github.com/Ramoniet/ED-2025-Laboratorio01-Punteros)  
-  Exploring pointers and memory management fundamentals—foundational programming practice.
+- [Luxecars-web](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
+  Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
 
 - [SelfOrderBurgerKiosk-POO](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
   Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
 
 - [Shadow-Clash](https://github.com/Alon345/Fase-3-MP)  
   Collaborative software project, focused on teamwork and real-world development methodologies.
+
+- [ED-2025-Laboratorio02-TAD](https://github.com/Ramoniet/ED-2025-Laboratorio02-TAD)  
+  Data structures and algorithms in Java. Hands-on lab work applying core computer science concepts.
+
+- [ED-2025-Laboratorio01-Punteros](https://github.com/Ramoniet/ED-2025-Laboratorio01-Punteros)  
+  Exploring pointers and memory management fundamentals—foundational programming practice.
 
 ---
 
@@ -44,17 +47,20 @@ Actualmente estudio Ingeniería de Software y desarrollo habilidades en Java, Pa
 
 ## 🛠️ Proyectos principales
 
-- [ED-2025-Laboratorio02-TAD](https://github.com/Ramoniet/ED-2025-Laboratorio02-TAD)  
-  Estructuras de datos y algoritmos en Java. Trabajo práctico aplicando conceptos clave de la informática.
-
-- [ED-2025-Laboratorio01-Punteros](https://github.com/Ramoniet/ED-2025-Laboratorio01-Punteros)  
-  Explorando punteros y fundamentos de gestión de memoria—práctica esencial de programación.
+-  [Luxecars-web](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
+  Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
 
 - [SelfOrderBurgerKiosk-POO](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
-  Proyecto práctico de Programación Orientada a Objetos simulando el flujo de trabajo de un kiosko de pedidos de McDonald's, integrando múltiples conceptos de programación.
+  Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
 
 - [Shadow-Clash](https://github.com/Alon345/Fase-3-MP)  
-  Proyecto colaborativo de software, enfocado en el trabajo en equipo y metodologías de desarrollo reales.
+  Collaborative software project, focused on teamwork and real-world development methodologies.
+
+- [ED-2025-Laboratorio02-TAD](https://github.com/Ramoniet/ED-2025-Laboratorio02-TAD)  
+  Data structures and algorithms in Java. Hands-on lab work applying core computer science concepts.
+
+- [ED-2025-Laboratorio01-Punteros](https://github.com/Ramoniet/ED-2025-Laboratorio01-Punteros)  
+  Exploring pointers and memory management fundamentals—foundational programming practice.
 
 ---
 
