@@ -15,8 +15,8 @@ Currently studying Software Engineering, building skills in Java, Pascal, Oracle
 
 ## 🛠️ Main Projects
 
-- [Luxecars-web](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
-  Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
+- [Luxecars-web](https://github.com/Ramoniet/Luxecars-Web)  
+  This project is a website designed to showcase a luxury car rental catalog. It allows users to explore different models, apply filters to find vehicles by brand/letters in title or country and access to pages with detailed information about each car such as its name, hp, specifications and daily price.
 
 - [SelfOrderBurgerKiosk-POO](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
   Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
@@ -47,8 +47,8 @@ Actualmente estudio Ingeniería de Software y desarrollo habilidades en Java, Pa
 
 ## 🛠️ Proyectos principales
 
--  [Luxecars-web](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
-  Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
+-  [Luxecars-web](https://github.com/Ramoniet/Luxecars-Web)  
+  This project is a website designed to showcase a luxury car rental catalog. It allows users to explore different models, apply filters to find vehicles by brand/letters in title or country and access to pages with detailed information about each car such as its name, hp, specifications and daily price.
 
 - [SelfOrderBurgerKiosk-POO](https://github.com/Ramoniet/SelfOrderBurgerKiosk-POO)  
   Practical Object Oriented Programming application project simulating McDonald's kiosk workflow, integrating multiple programming concepts.
